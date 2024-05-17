@@ -4,7 +4,7 @@
 
 ## TL;DR;
 
-- If something is wrong with the dirty state. Check default values.
+- If something is wrong with the dirty state or something weird is going on. Check default values. :-)
 
 ## Pain points
 
