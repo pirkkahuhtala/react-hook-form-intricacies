@@ -2,6 +2,10 @@
 
 [React Hook Form](https://react-hook-form.com/) is a powerful framework to handle probably the most hardest part in interface work, the forms. I've been using the framework for the past 4 years maybe and it still keeps on giving in the good and in the bad. Here are some pain points I've stumbled upon and some ideas how to tackle them.
 
+## TL;DR;
+
+- If something is wrong with the dirty state. Check default values.
+
 ## Pain points
 
 ### Form state is dirty after initial load
